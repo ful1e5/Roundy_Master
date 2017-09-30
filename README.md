@@ -34,8 +34,24 @@ The Drop Shadow is Look much better in Light Theme,So I Advice You Use Light The
 
 ## Installation
 
+###### Using install.sh
 ```
      $ git clone https://github.com/KaizIqbal/Roundy_Master.git
      $ cd Roundy_Master
      $ ./install.sh
+```
+###### Manual
+###### Clone Roundy by Use This:- 
+```
+     $ git clone https://github.com/KaizIqbal/Roundy_Master.git
+```
+###### For Roundy_light
+```
+     $ cd Roundy_Master
+     $ cp -Ri Roundy_Light $HOME/.local/share/plank/themes
+```
+###### For Roundy_light
+```
+     $ cd Roundy_Master
+     $ cp -Ri Roundy_Dark $HOME/.local/share/plank/themes
 ```
