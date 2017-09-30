@@ -7,8 +7,9 @@ I'm a big fan of Roundness,So I Create Rounded Corner Theme In "Plank"
 I Call This Theme "Roundy"
 
 ## Roundy Plank Theme
-Another Plank Theme Not have any Shadow icon.This Theme is Inspire on "Capeos" Theme
-
+Another Plank Theme Not have any Shadow icon and I Love Blur&Shadow. 
+Roundy Have Close Icons & Drop Shadow below Icon That's Look so pretty.
+The Drop Shadow is Look much better in Light Theme,So I Advice You Use Light Theme First.
 
 ## What's New
  ###### 1. Smooth Jumping Effect <br />
