@@ -1,6 +1,6 @@
 # Roundy_Master
 
-![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_logo.png)
+  ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_logo.png)
 
 I'm a big fan of Roundness,So I Create Rounded Corner Theme In "Plank"
 
@@ -20,7 +20,7 @@ Another Plank Theme Not have any Shadow icon.This Theme is Inspire on "Capeos" T
  <br />
  
  ###### 3. Best Looking Indicator For Background Application <br/>
-    ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_Indicator.png)
+  ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_Indicator.png)
 <br />
 
 ## The Roundy Have Two Flavour Light & Dark
