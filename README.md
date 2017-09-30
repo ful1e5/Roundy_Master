@@ -20,11 +20,11 @@ The Drop Shadow is Look much better in Light Theme,So I Advice You Use Light The
   ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_Active.png)
  <br />
  
- ###### 3. Best Looking Indicator For Background Application <br/>
+ ###### 3. Best Looking Indicator For Minimize Application <br/>
   ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_Indicator.png)
 <br />
 
-## The Roundy Have Two Flavour Light & Dark
+## Roundy Flavours:
 
 ##### Roundy Light
    ![alt text](https://github.com/KaizIqbal/Roundy_Master/blob/master/Picture/Roundy_light.png)
