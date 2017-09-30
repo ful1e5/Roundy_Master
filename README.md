@@ -34,9 +34,8 @@ Another Plank Theme Not have any Shadow icon.This Theme is Inspire on "Capeos" T
 ## Installation
 
 ```
-git clone https://github.com/KaizIqbal/Roundy_Master.git
-
-$ cd Roundy_Master
-$ ./install.sh
+  $git clone https://github.com/KaizIqbal/Roundy_Master.git
+  $ cd Roundy_Master
+  $ ./install.sh
 ```
 # THANKS
